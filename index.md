@@ -23,6 +23,19 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email, userId. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+**Facial Data and Camera Usage**
+The Application uses the device camera to facilitate attendance marking.
+
+* Face Detection: We use on-device technology (Google ML Kit) to detect the presence of a face to ensure a person is physically present. This is a detection process, not a biometric identification process.
+
+* Image Collection: Once a face is detected, the Application captures and uploads a photograph to the Service Provider’s secure servers.
+
+* Purpose: These images are collected solely for attendance verification and audit purposes, allowing employers to manually verify the identity of the person clocking in (to prevent "buddy punching").
+
+* Data Storage & Security: Captured images are stored using industry-standard encryption on our secure servers. We do not use these images to create biometric "face prints" or for any purpose other than attendance records.
+
+* Retention: These images are retained for as long as the user remains an employee of the organization using the Service. Users may request data deletion by contacting barquntech@gmail.com.
+
 **Third Party Access**
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
