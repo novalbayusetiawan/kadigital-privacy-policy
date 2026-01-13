@@ -24,6 +24,7 @@ The Service Provider may use the information you provided to contact you from ti
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email, userId. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Facial Data and Camera Usage**
+
 The Application uses the device camera to facilitate attendance marking.
 
 * Face Detection: We use on-device technology (Google ML Kit) to detect the presence of a face to ensure a person is physically present. This is a detection process, not a biometric identification process.
