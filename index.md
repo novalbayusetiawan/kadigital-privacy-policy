@@ -29,7 +29,7 @@ The Application uses the device camera to facilitate attendance marking.
 
 * Face Detection: We use on-device technology (Google ML Kit) to detect the presence of a face to ensure a person is physically present. This is a detection process, not a biometric identification process.
 
-* Image Collection: Once a face is detected, the Application captures and uploads a photograph to the Service Provider’s secure servers.
+* Image Collection: Once a face is detected, the Application captures and uploads a photograph to our secure server.
 
 * Purpose: These images are collected solely for attendance verification and audit purposes, allowing employers to manually verify the identity of the person clocking in (to prevent "buddy punching").
 
